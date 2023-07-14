@@ -1,12 +1,10 @@
 ![My Image](images/2_Stella3_8k.jpg)
 <h1 align="center">Hi 👋, I'm K</h1>
-<h3 align="center">Fresher frontend dev from Vietnam</h3>
+<h3 align="center">Frontend student from Vietnam</h3>
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **khoingoc456@gmail.com**
-
-- ⚡ Fun fact **I'm a fan of WLOP :>**
 
 ## Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/448134583670800386?bg=aae8f0)](https://discord.com/users/448134583670800386)

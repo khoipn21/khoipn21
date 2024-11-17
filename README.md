@@ -1,6 +1,6 @@
 ![My Image](images/2_Stella3_8k.jpg)
 <h1 align="center">Hi 👋, I'm K</h1>
-<h3 align="center">Frontend student from Vietnam</h3>
+<h3 align="center">Fullstack student from Vietnam</h3>
 
 - 💬 Ask me about **react**
 

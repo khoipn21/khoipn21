@@ -1,11 +1,4 @@
 ![My Image](images/2_Stella3_8k.jpg)
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/khoipn21"
-  width="600"
-  height="300"
-/>
-</a>
 <h1 align="center">Hi 👋, I'm K</h1>
 <h3 align="center">Fullstack student from Vietnam</h3>
 
@@ -24,3 +17,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoipn21&show_icons=true&theme=onedark&locale=en&layout=compact" alt="khoipn21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoipn21&show_icons=true&theme=onedark&locale=en" alt="khoipn21" /></p>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/khoipn21"
+  width="600"
+  height="300"
+/>
+</a>

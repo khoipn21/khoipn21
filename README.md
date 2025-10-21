@@ -34,4 +34,4 @@ I am a motivated and detail-oriented fresher in full-stack development, passiona
   height="300"
 />
 </a>
-<a href="https://app.daily.dev/khoi2112"><img src="https://api.daily.dev/devcards/v2/xUN4wuyM5bU8ILQbcWi7e.png?type=default&r=ldc" width="356" alt="Pham Ngoc Khoi's Dev Card"/></a>
+<a href="https://app.daily.dev/khoi2112"><img src="https://api.daily.dev/devcards/v2/xUN4wuyM5bU8ILQbcWi7e.png?type=iron&r=ldc" width="356" alt="Pham Ngoc Khoi's Dev Card"/></a>

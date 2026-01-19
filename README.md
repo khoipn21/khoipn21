@@ -1,7 +1,8 @@
 ![My Image](images/3806936e1c0b535ff338121d6e5765df.gif)
 <h1 align="center">Hi 👋, I'm Khoi</h1>
-<h3 align="center">Fullstack developer from Vietnam</h3>
-
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C6535D&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Fullstack+developer+from+Vietnam)](https://git.io/typing-svg)
+</p>
 # 💫 About Me:
 
 I am a motivated and detail-oriented fresher in full-stack development, passionate<br>about creating efficient, user-friendly solutions. I have honed my skills in front-end<br>technologies such as React and TypeScript, as well as back-end technologies like Go<br>and Node.js, through self-learning. Eager to contribute to a dynamic team, I am<br>committed to continuous learning and growth in the field of software development.

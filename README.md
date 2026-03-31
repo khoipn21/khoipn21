@@ -21,13 +21,9 @@ I am a motivated and detail-oriented fresher in full-stack development, passiona
 # 📊 GitHub Stats:
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30987%26project%3D%26in=0)](https://codetime.dev)
 
-![](https://github-readme-stats.vercel.app/api?username=khoipn21&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khoipn21&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khoipn21&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=khoipn21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=khoipn21&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=khoipn21&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=khoipn21&layout=compact&theme=onedark)
 
 # 😽 Funny things
 <a href="https://github.com/devxb/gitanimals">
